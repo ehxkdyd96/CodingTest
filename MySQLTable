@@ -20,3 +20,4 @@ create table employees.PurchaseInfo( productInfo varchar(45), customer_name varc
 
 insert into purchaseinfo values("비비드 크림","홍길동","30000","2020-05-26","207"); select * from purchaseinfo;
 
+https://github.com/ehxkdyd96/CodingTest/issues/1#issue-1249120754
