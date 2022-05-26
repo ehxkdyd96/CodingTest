@@ -1,7 +1,13 @@
 
 use employees;
 
-create table employees . ProductInfo( product_name varchar(45) Not Null, price int, register_date date, company varchar(45), primary key(Product_name) );
+create table employees . ProductInfo( 
+  product_name varchar(45) Not Null, 
+  price int, 
+  register_date date, 
+  company varchar(45), 
+  primary key(Product_name) 
+);
 
 insert into productinfo values("비비드 크림 3종 세트", '20000', '2021-11-20', "(주)비비드"); select * from productinfo;
 
